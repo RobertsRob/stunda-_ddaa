@@ -1,0 +1,36 @@
+body
+{
+    background-color: rgb(202, 190, 14);
+}
+.v
+{
+    text-align: center;
+    font-size: 30px;
+    font-family: bahnschrift;
+    position: flex;
+}
+.h
+{
+    margin: 0 auto;
+    width: 750px;
+}
+.t
+{
+    width: 200px;
+    height: 200px;
+    position: relative;
+    left: 450px;
+    top: -300px;
+}
+.l
+{
+    width: 200px;
+    height: 200px;
+    position: relative;
+    left: 450px;
+    top: -150px;
+}
+.r
+{
+    width: 50%;
+}
